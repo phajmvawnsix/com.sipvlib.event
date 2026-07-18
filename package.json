@@ -1,0 +1,18 @@
+{
+  "name": "com.sipvlib.event",
+  "version": "1.0.0",
+  "displayName": "SiPVLib Event",
+  "description": "A lightweight, thread-safe string/type-keyed pub/sub event bus for Unity with MonoBehaviour extension methods and automatic listener cleanup on destroy.",
+  "unity": "6000.3",
+  "author": {
+    "name": "phajmvawnsix"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "sipvlib",
+    "event"
+  ],
+  "dependencies": {
+    "com.sipvlib.debugging": "https://github.com/phajmvawnsix/com.sipvlib.debugging.git"
+  }
+}
