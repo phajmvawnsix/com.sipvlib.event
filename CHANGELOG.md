@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.2] - 2026-09-03
+
+Pin the com.sipvlib.debugging dependency to a semver version (1.1.1) instead of a git URL, for the
+same OpenUPM registry-resolution reason as com.sipvlib.utilities 2.0.2.
+
 ## [1.1.1] - 2026-09-03
 
 Lower minimum Unity Editor version to 2022.3 LTS (was 6000.3) and add a `repository`

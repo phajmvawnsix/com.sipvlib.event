@@ -1,6 +1,6 @@
 {
   "name": "com.sipvlib.event",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "displayName": "SiPVLib Event",
   "description": "A lightweight, thread-safe string/type-keyed pub/sub event bus for Unity with MonoBehaviour extension methods and automatic listener cleanup on destroy.",
   "unity": "2022.3",
@@ -17,6 +17,6 @@
     "event"
   ],
   "dependencies": {
-    "com.sipvlib.debugging": "https://github.com/phajmvawnsix/com.sipvlib.debugging.git"
+    "com.sipvlib.debugging": "1.1.1"
   }
 }
